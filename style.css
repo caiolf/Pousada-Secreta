@@ -1,0 +1,142 @@
+*{
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #555451;
+}
+body, html{
+    width: 100%;
+    margin:0;
+    display:flex;
+    
+}
+span{
+    color:#7595BE;
+}
+a{
+    text-decoration: none;
+}
+.container{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#main{
+    width: 800px;
+}
+#header{
+    width: 100%;
+    height:50px;
+    display: flex;
+    justify-content: center;
+    position: fixed;
+    top: 0;
+    background-color: #fff;
+}
+.header0{
+    width:800px;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header-right{
+    width:250px;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.img-fundo{
+    height: 480px;
+    width: 100%;
+    background-image: url(./assets/img-fundo.jpg);
+    background-size:cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.img-fundo div{
+    border: 1px solid #64E4E5;
+    width: 300px;
+    background-color:#3e7a6caf;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.img-fundo div h1, .img-fundo div p{
+    color: white;
+}
+.bem-vindo{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+.bem-vindo h1 {
+    margin-bottom: 0;
+}
+.bem-vindo p {
+    margin-top: 0;
+    text-align: center;
+}
+
+.quartos3{
+    margin-top:30px;
+    width: 100%;
+    display:flex;
+    justify-content: space-around;
+}
+.img-3quartos{
+    width: 220px;
+}
+.quartos3 div p{
+    text-align: center;
+}
+#footer {
+    background-color:#49997C;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.footer0{
+    margin-top:10px;
+    width: 800px;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.footer1{
+    width: 180px;
+    height: 40px;
+    color: #fff;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 14px;
+}
+.divider{
+    border: 1px solid #449376;
+}
+.copyright{
+    padding:10px;
+    text-align: center;
+    color: #fff;
+    font-weight: bold;
+}
+.endereco p{
+    font-size: 12px;
+    color: #fff;
+    padding-left: 10px;
+}
+.tel p{
+    color: #fff;
+}
+.calendar p{
+    font-size: 12px;
+    color: #fff;
+    padding-left: 10px;
+}
