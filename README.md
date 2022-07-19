@@ -1,7 +1,7 @@
 
 # Pousada Secreta
 
-Desenvolvendo site de uma clínica médica para colocar em prática conhecimentos em HTML e CSS
+Desenvolvendo site de uma pousada fictícia para colocar em prática conhecimentos em HTML e CSS
 
 
 ## Site
