@@ -1,7 +1,7 @@
 
-# Clínica Médica
+# Pousada Secreta
 
-Desenvolvendo site de uma clínica médica para colocar em prática layout responsivo
+Desenvolvendo site de uma clínica médica para colocar em prática conhecimentos em HTML e CSS
 
 
 ## Site
